@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Open to collaborate on exiciting ideas.
+
+Working on frontend these days.
+
+

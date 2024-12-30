@@ -19,4 +19,6 @@ Open to collaborate on exiciting ideas.
 
 Working on frontend these days.
 
+Too lazy to crete a portfolio website.
+
 

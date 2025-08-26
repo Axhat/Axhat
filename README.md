@@ -19,6 +19,6 @@ Open to collaborate on exiciting ideas.
 
 Working on frontend these days.
 
-May my protfolio website see the day of light.
+May my protfolio website see the day of light. ( WIP 🚧 )
 
 

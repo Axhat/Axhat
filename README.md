@@ -21,4 +21,6 @@ Working on frontend these days.
 
 May my protfolio website see the day of light. ( WIP 🚧 )
 
+[![Peerlist](https://github-readme-badge.peerlist.io/api/akshat_k?style=social)](https://peerlist.io/akshat_k)
+
 

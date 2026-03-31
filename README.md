@@ -1,4 +1,4 @@
-## Hi there 👋
+## Me is Akshat 👋
 
 <!--
 **Axhat/Axhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Open to collaborate on exiciting ideas.
-
-Working on frontend these days.
-
-May my protfolio website see the day of light. ( WIP 🚧 )
-
-[![Peerlist](https://github-readme-badge.peerlist.io/api/akshat_k?style=social)](https://peerlist.io/akshat_k)
-
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/d1b9203a-2ada-4105-8c25-5338e0eb44d0" />
 

@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+> “Someday a real rain will come and wash all this scum off the streets.”  
+> — Taxi Driver
+
 <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/d1b9203a-2ada-4105-8c25-5338e0eb44d0" />
 
